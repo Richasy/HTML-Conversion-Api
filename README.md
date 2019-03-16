@@ -27,7 +27,7 @@ So I will share this package, if you have this conversion requirement, you can d
 
 > Currently only provides an interface to convert HTML to PDF
 
-If you use the [Acrylic Markdown](https://www.microsoft.com/en-us/p/acrylic-markdown/9mx0mgjmjnbj), please [Click Here](htpps://blog.richasy.cn/document/acrmd/conversion).
+If you use the [Acrylic Markdown](https://www.microsoft.com/en-us/p/acrylic-markdown/9mx0mgjmjnbj), please [Click Here](https://blog.richasy.cn/document/acrmd/conversion).
 
 ### HTML -> PDF
 
