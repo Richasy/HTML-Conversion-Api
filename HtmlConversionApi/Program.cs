@@ -19,6 +19,9 @@ namespace HtmlConversionApi
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+            .UseKestrel()
+            .UseUrls("http://localhost:5001")
+            .UseIISIntegration()
                 .UseStartup<Startup>();
     }
 }

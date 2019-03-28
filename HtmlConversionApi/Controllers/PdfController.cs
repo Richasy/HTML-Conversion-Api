@@ -20,7 +20,6 @@ namespace HtmlConversionApi.Controllers
         {
             PdfConverter = converter as SynchronizedConverter;
         }
-
         [HttpPost]
         public async Task<ActionResult> ConvertHtmlToPdf()
         {
@@ -42,7 +41,7 @@ namespace HtmlConversionApi.Controllers
                         new ObjectSettings() {
                             PagesCount = true,
                             HtmlContent = htmlContent,
-                            WebSettings = { DefaultEncoding = "utf-8" },
+                            WebSettings = { DefaultEncoding = "gb2132" },
                         }
                     }
                     };
