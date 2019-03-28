@@ -18,7 +18,7 @@ So I will share this package, if you have this conversion requirement, you can d
     Windows 10 1809
 - ### Support Platform  
     Windows  *Verified*  
-    Linux  *Unverified*  
+    Linux  *Verified*  
     MacOS *Unverified*
 - ### Support Format  
     - pdf  
